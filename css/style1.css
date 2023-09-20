@@ -1,0 +1,22 @@
+body{
+    background: #fff;
+    box-sizing: border-box;
+    color: rgb(255, 70, 70);
+    font-size: 1.8rem;
+    letter-spacing: -0.015rem;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background: #ff598b;
+    color: #fff;
+    padding: 2px 6px;
+    border-collapse: separate;
+    border: 1px solid rgb(255, 255, 255);
+}
