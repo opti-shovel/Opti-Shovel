@@ -1,0 +1,42 @@
+.nav {
+    margin: auto;
+}
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 550;
+}
+.heading{
+    font-style: bold;
+    font-family: 'Raleway',sans-serif;
+}
+.btn:hover{
+    color: rgb(255, 128, 0);
+    background-color: #ffe8e8;
+}
+.btn{
+    color: rgb(255, 255, 255);
+    background-color: #f67272;
+}
+.footer-text{
+    background-color: #f67272;
+}
+
+.name{
+    
+    font-family: 'Raleway',sans-serif;
+    font-weight: 900;
+}
+
+.horizontal-line {
+    border: none; /* Remove the default border */
+    border-top: 4px solid #000; /* Add a solid 1px black line */
+    margin: 10px 0; /* Adjust margin as needed to position the line vertically */
+    position: absolute;
+    background-color:rgb(165, 247, 253);
+    
+  }
+
+.heading2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+}
